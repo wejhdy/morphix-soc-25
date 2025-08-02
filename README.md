@@ -1,4 +1,4 @@
-# Morphix - Latent Editor: Real-Time StyleGAN2 Face Editing Interface
+# Latent Editor: Real-Time StyleGAN2 Face Editing Interface
 
 A powerful web-based interface for real-time editing of StyleGAN2-generated faces using latent space manipulation. This application allows you to interactively modify facial attributes like smile, age, gender, and pose while maintaining high-quality, photorealistic results.
 
